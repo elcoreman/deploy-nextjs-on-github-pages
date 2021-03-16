@@ -1,4 +1,4 @@
-# deploy-nextjs-on-github
+# deploy-nextjs-on-github-pages
 You can use this boilerplate to power your github pages with Nextjs. 
 
 ## usage
